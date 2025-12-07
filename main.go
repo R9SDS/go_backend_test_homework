@@ -12,4 +12,4 @@ func main() {
 	fmt.Println("Я домашка")
 }
 
-//iopajsdfkl;jiojjkl;nkl;'rfgyuadsgh
+//Поменял комментарий и сделал второй коммит
